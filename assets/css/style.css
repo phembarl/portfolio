@@ -270,6 +270,9 @@ h3{
 
 
 @media (max-width: 1024px){
+	#start2{
+		text-align: center;
+	}
 	
 	#fav{
 		margin-top: 0;
